@@ -8,3 +8,5 @@ vue需要vue3.x版本，不能是vue2.x版本
 
 application.properties 文件需要重新配置
 
+mysql这里使用8版本，使用5版本还需要修改下application.properties的连接方式
+mysql用户名和密码也需要重新配置
